@@ -1,0 +1,5 @@
+<?php
+
+$sekiolabs = "sekiolabs";
+
+?>

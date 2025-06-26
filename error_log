@@ -1,0 +1,103 @@
+[02-Mar-2025 03:34:10 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/jessuqhq/sekiolabs/index.php on line 19
+[02-Mar-2025 03:34:13 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/jessuqhq/sekiolabs/index.php on line 19
+[02-Mar-2025 03:34:34 UTC] PHP Warning:  file_get_contents(http://api.openweathermap.org/data/2.5/forecast/daily?q=Adelaide,AU&amp;units=metric&amp;cnt=7&amp;lang=en&amp;appid=9a09d198710095b77a6a95d33e7f1a6e): failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/jessuqhq/sekiolabs/index.php on line 15
+[02-Mar-2025 03:38:35 UTC] PHP Notice:  Undefined variable: weather_can in /home/jessuqhq/sekiolabs/index.php on line 41
+[02-Mar-2025 03:38:37 UTC] PHP Notice:  Undefined variable: weather_can in /home/jessuqhq/sekiolabs/index.php on line 41
+[02-Mar-2025 03:38:40 UTC] PHP Notice:  Undefined variable: weather_can in /home/jessuqhq/sekiolabs/index.php on line 41
+[02-Mar-2025 03:38:41 UTC] PHP Notice:  Undefined variable: weather_can in /home/jessuqhq/sekiolabs/index.php on line 41
+[02-Mar-2025 03:39:13 UTC] PHP Notice:  Undefined variable: weather_can in /home/jessuqhq/sekiolabs/index.php on line 41
+[02-Mar-2025 03:39:34 UTC] PHP Notice:  Undefined variable: weather_can in /home/jessuqhq/sekiolabs/index.php on line 41
+[02-Mar-2025 03:41:56 UTC] PHP Notice:  Undefined variable: weather_can in /home/jessuqhq/sekiolabs/index.php on line 41
+[02-Mar-2025 03:41:58 UTC] PHP Notice:  Undefined variable: weather_can in /home/jessuqhq/sekiolabs/index.php on line 41
+[02-Mar-2025 03:44:57 UTC] PHP Parse error:  syntax error, unexpected '$fortune' (T_VARIABLE) in /home/jessuqhq/sekiolabs/index.php on line 34
+[02-Mar-2025 03:44:59 UTC] PHP Parse error:  syntax error, unexpected '$fortune' (T_VARIABLE) in /home/jessuqhq/sekiolabs/index.php on line 34
+[02-Mar-2025 03:44:59 UTC] PHP Parse error:  syntax error, unexpected '$fortune' (T_VARIABLE) in /home/jessuqhq/sekiolabs/index.php on line 34
+[02-Mar-2025 03:45:38 UTC] PHP Parse error:  syntax error, unexpected '$fortune' (T_VARIABLE) in /home/jessuqhq/sekiolabs/index.php on line 34
+[02-Mar-2025 03:47:06 UTC] PHP Parse error:  syntax error, unexpected '$fortune' (T_VARIABLE) in /home/jessuqhq/sekiolabs/index.php on line 36
+[02-Mar-2025 03:47:09 UTC] PHP Parse error:  syntax error, unexpected '$fortune' (T_VARIABLE) in /home/jessuqhq/sekiolabs/index.php on line 36
+[02-Mar-2025 03:47:32 UTC] PHP Notice:  Undefined variable: weather_can in /home/jessuqhq/sekiolabs/index.php on line 46
+[02-Mar-2025 03:48:13 UTC] PHP Notice:  Undefined variable: weather_can in /home/jessuqhq/sekiolabs/index.php on line 46
+[02-Mar-2025 03:48:32 UTC] PHP Parse error:  syntax error, unexpected '200' (T_LNUMBER) in /home/jessuqhq/sekiolabs/index.php on line 36
+[02-Mar-2025 03:48:53 UTC] PHP Parse error:  syntax error, unexpected '200' (T_LNUMBER) in /home/jessuqhq/sekiolabs/index.php on line 36
+[02-Mar-2025 03:49:13 UTC] PHP Warning:  A non-numeric value encountered in /home/jessuqhq/sekiolabs/index.php on line 31
+[02-Mar-2025 03:49:13 UTC] PHP Notice:  Undefined variable: weather_can in /home/jessuqhq/sekiolabs/index.php on line 46
+[02-Mar-2025 03:51:00 UTC] PHP Notice:  Undefined variable: weather_can in /home/jessuqhq/sekiolabs/index.php on line 46
+[02-Mar-2025 03:54:45 UTC] PHP Parse error:  syntax error, unexpected '$cityID' (T_VARIABLE) in /home/jessuqhq/sekiolabs/index.php on line 33
+[02-Mar-2025 03:56:52 UTC] PHP Notice:  Undefined property: stdClass::$UVI in /home/jessuqhq/sekiolabs/index.php on line 31
+[02-Mar-2025 03:56:54 UTC] PHP Notice:  Undefined property: stdClass::$UVI in /home/jessuqhq/sekiolabs/index.php on line 31
+[02-Mar-2025 03:57:06 UTC] PHP Notice:  Undefined property: stdClass::$uvi in /home/jessuqhq/sekiolabs/index.php on line 31
+[02-Mar-2025 03:58:12 UTC] PHP Notice:  Undefined property: stdClass::$uvi in /home/jessuqhq/sekiolabs/index.php on line 31
+[02-Mar-2025 04:00:22 UTC] PHP Notice:  Undefined property: stdClass::$uvi in /home/jessuqhq/sekiolabs/index.php on line 31
+[02-Mar-2025 04:00:49 UTC] PHP Notice:  Undefined property: stdClass::$uvi in /home/jessuqhq/sekiolabs/index.php on line 31
+[02-Mar-2025 04:01:23 UTC] PHP Notice:  Undefined property: stdClass::$uvi in /home/jessuqhq/sekiolabs/index.php on line 31
+[02-Mar-2025 04:03:11 UTC] PHP Parse error:  syntax error, unexpected '$ch' (T_VARIABLE) in /home/jessuqhq/sekiolabs/index.php on line 39
+[02-Mar-2025 04:04:59 UTC] PHP Notice:  Undefined variable: data in /home/jessuqhq/sekiolabs/index.php on line 32
+[02-Mar-2025 04:04:59 UTC] PHP Notice:  Trying to get property 'main' of non-object in /home/jessuqhq/sekiolabs/index.php on line 32
+[02-Mar-2025 04:04:59 UTC] PHP Notice:  Trying to get property 'temp_max' of non-object in /home/jessuqhq/sekiolabs/index.php on line 32
+[02-Mar-2025 04:05:02 UTC] PHP Notice:  Undefined variable: data in /home/jessuqhq/sekiolabs/index.php on line 32
+[02-Mar-2025 04:05:02 UTC] PHP Notice:  Trying to get property 'main' of non-object in /home/jessuqhq/sekiolabs/index.php on line 32
+[02-Mar-2025 04:05:02 UTC] PHP Notice:  Trying to get property 'temp_max' of non-object in /home/jessuqhq/sekiolabs/index.php on line 32
+[02-Mar-2025 04:06:56 UTC] PHP Notice:  Undefined variable: ch2 in /home/jessuqhq/sekiolabs/index.php on line 45
+[02-Mar-2025 04:06:56 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/jessuqhq/sekiolabs/index.php on line 45
+[02-Mar-2025 04:06:56 UTC] PHP Notice:  Undefined variable: ch2 in /home/jessuqhq/sekiolabs/index.php on line 46
+[02-Mar-2025 04:06:56 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/jessuqhq/sekiolabs/index.php on line 46
+[02-Mar-2025 04:06:56 UTC] PHP Notice:  Undefined variable: ch2 in /home/jessuqhq/sekiolabs/index.php on line 47
+[02-Mar-2025 04:06:56 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/jessuqhq/sekiolabs/index.php on line 47
+[02-Mar-2025 04:06:56 UTC] PHP Notice:  Undefined variable: ch2 in /home/jessuqhq/sekiolabs/index.php on line 48
+[02-Mar-2025 04:06:56 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/jessuqhq/sekiolabs/index.php on line 48
+[02-Mar-2025 04:06:56 UTC] PHP Notice:  Undefined variable: ch2 in /home/jessuqhq/sekiolabs/index.php on line 49
+[02-Mar-2025 04:06:56 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/jessuqhq/sekiolabs/index.php on line 49
+[02-Mar-2025 04:06:56 UTC] PHP Notice:  Undefined variable: ch2 in /home/jessuqhq/sekiolabs/index.php on line 50
+[02-Mar-2025 04:06:56 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/jessuqhq/sekiolabs/index.php on line 50
+[02-Mar-2025 04:06:56 UTC] PHP Notice:  Undefined variable: ch2 in /home/jessuqhq/sekiolabs/index.php on line 53
+[02-Mar-2025 04:06:56 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/jessuqhq/sekiolabs/index.php on line 53
+[02-Mar-2025 04:06:56 UTC] PHP Notice:  Trying to get property 'main' of non-object in /home/jessuqhq/sekiolabs/index.php on line 58
+[02-Mar-2025 04:06:56 UTC] PHP Notice:  Trying to get property 'temp_max' of non-object in /home/jessuqhq/sekiolabs/index.php on line 58
+[02-Mar-2025 04:07:02 UTC] PHP Notice:  Undefined variable: ch2 in /home/jessuqhq/sekiolabs/index.php on line 45
+[02-Mar-2025 04:07:02 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/jessuqhq/sekiolabs/index.php on line 45
+[02-Mar-2025 04:07:02 UTC] PHP Notice:  Undefined variable: ch2 in /home/jessuqhq/sekiolabs/index.php on line 46
+[02-Mar-2025 04:07:02 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/jessuqhq/sekiolabs/index.php on line 46
+[02-Mar-2025 04:07:02 UTC] PHP Notice:  Undefined variable: ch2 in /home/jessuqhq/sekiolabs/index.php on line 47
+[02-Mar-2025 04:07:02 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/jessuqhq/sekiolabs/index.php on line 47
+[02-Mar-2025 04:07:02 UTC] PHP Notice:  Undefined variable: ch2 in /home/jessuqhq/sekiolabs/index.php on line 48
+[02-Mar-2025 04:07:02 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/jessuqhq/sekiolabs/index.php on line 48
+[02-Mar-2025 04:07:02 UTC] PHP Notice:  Undefined variable: ch2 in /home/jessuqhq/sekiolabs/index.php on line 49
+[02-Mar-2025 04:07:02 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/jessuqhq/sekiolabs/index.php on line 49
+[02-Mar-2025 04:07:02 UTC] PHP Notice:  Undefined variable: ch2 in /home/jessuqhq/sekiolabs/index.php on line 50
+[02-Mar-2025 04:07:02 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/jessuqhq/sekiolabs/index.php on line 50
+[02-Mar-2025 04:07:02 UTC] PHP Notice:  Undefined variable: ch2 in /home/jessuqhq/sekiolabs/index.php on line 53
+[02-Mar-2025 04:07:02 UTC] PHP Warning:  curl_exec() expects parameter 1 to be resource, null given in /home/jessuqhq/sekiolabs/index.php on line 53
+[02-Mar-2025 04:07:02 UTC] PHP Notice:  Trying to get property 'main' of non-object in /home/jessuqhq/sekiolabs/index.php on line 58
+[02-Mar-2025 04:07:02 UTC] PHP Notice:  Trying to get property 'temp_max' of non-object in /home/jessuqhq/sekiolabs/index.php on line 58
+[02-Mar-2025 04:09:02 UTC] PHP Notice:  Undefined variable: cityId2 in /home/jessuqhq/sekiolabs/index.php on line 39
+[02-Mar-2025 04:09:03 UTC] PHP Notice:  Undefined property: stdClass::$main in /home/jessuqhq/sekiolabs/index.php on line 58
+[02-Mar-2025 04:09:03 UTC] PHP Notice:  Trying to get property 'temp_max' of non-object in /home/jessuqhq/sekiolabs/index.php on line 58
+[02-Mar-2025 04:09:04 UTC] PHP Notice:  Undefined variable: cityId2 in /home/jessuqhq/sekiolabs/index.php on line 39
+[02-Mar-2025 04:09:04 UTC] PHP Notice:  Undefined property: stdClass::$main in /home/jessuqhq/sekiolabs/index.php on line 58
+[02-Mar-2025 04:09:04 UTC] PHP Notice:  Trying to get property 'temp_max' of non-object in /home/jessuqhq/sekiolabs/index.php on line 58
+[12-Mar-2025 21:15:21 UTC] PHP Notice:  Trying to get property 'main' of non-object in /home/jessuqhq/sekiolabs/index.php on line 32
+[12-Mar-2025 21:15:21 UTC] PHP Notice:  Trying to get property 'temp_max' of non-object in /home/jessuqhq/sekiolabs/index.php on line 32
+[15-Apr-2025 00:13:43 UTC] PHP Notice:  Trying to get property 'main' of non-object in /home/jessuqhq/sekiolabs/index.php on line 32
+[15-Apr-2025 00:13:43 UTC] PHP Notice:  Trying to get property 'temp_max' of non-object in /home/jessuqhq/sekiolabs/index.php on line 32
+[15-Apr-2025 00:15:54 UTC] PHP Notice:  Trying to get property 'main' of non-object in /home/jessuqhq/sekiolabs/index.php on line 58
+[15-Apr-2025 00:15:54 UTC] PHP Notice:  Trying to get property 'temp_max' of non-object in /home/jessuqhq/sekiolabs/index.php on line 58
+[29-May-2025 19:39:47 UTC] PHP Parse error:  syntax error, unexpected '$page_desc' (T_VARIABLE) in /home/jessuqhq/sekiolabs/access.php on line 4
+[30-May-2025 09:02:20 UTC] PHP Parse error:  syntax error, unexpected '$page_desc' (T_VARIABLE) in /home/jessuqhq/sekiolabs/access.php on line 4
+[30-May-2025 21:37:50 UTC] PHP Parse error:  syntax error, unexpected '$page_desc' (T_VARIABLE) in /home/jessuqhq/sekiolabs/access.php on line 4
+[30-May-2025 22:29:29 UTC] PHP Parse error:  syntax error, unexpected '$page_desc' (T_VARIABLE) in /home/jessuqhq/sekiolabs/access.php on line 4
+[01-Jun-2025 02:32:42 UTC] PHP Parse error:  syntax error, unexpected '$page_desc' (T_VARIABLE) in /home/jessuqhq/sekiolabs/access.php on line 4
+[02-Jun-2025 00:03:53 UTC] PHP Parse error:  syntax error, unexpected '$page_desc' (T_VARIABLE) in /home/jessuqhq/sekiolabs/access.php on line 4
+[02-Jun-2025 00:19:31 UTC] PHP Parse error:  syntax error, unexpected '$page_desc' (T_VARIABLE) in /home/jessuqhq/sekiolabs/access.php on line 4
+[04-Jun-2025 02:56:53 UTC] PHP Parse error:  syntax error, unexpected '$page_desc' (T_VARIABLE) in /home/jessuqhq/sekiolabs/access.php on line 4
+[06-Jun-2025 06:13:38 UTC] PHP Parse error:  syntax error, unexpected '$page_desc' (T_VARIABLE) in /home/jessuqhq/sekiolabs/access.php on line 4
+[07-Jun-2025 17:11:47 UTC] PHP Parse error:  syntax error, unexpected '$page_desc' (T_VARIABLE) in /home/jessuqhq/sekiolabs/access.php on line 4
+[08-Jun-2025 14:13:40 UTC] PHP Parse error:  syntax error, unexpected '$page_desc' (T_VARIABLE) in /home/jessuqhq/sekiolabs/access.php on line 4
+[09-Jun-2025 15:42:12 UTC] PHP Parse error:  syntax error, unexpected '$page_desc' (T_VARIABLE) in /home/jessuqhq/sekiolabs/access.php on line 4
+[10-Jun-2025 06:47:41 UTC] PHP Parse error:  syntax error, unexpected '$page_desc' (T_VARIABLE) in /home/jessuqhq/sekiolabs/access.php on line 4
+[11-Jun-2025 05:55:57 UTC] PHP Parse error:  syntax error, unexpected '$page_desc' (T_VARIABLE) in /home/jessuqhq/sekiolabs/access.php on line 4
+[12-Jun-2025 22:20:30 UTC] PHP Parse error:  syntax error, unexpected '$page_desc' (T_VARIABLE) in /home/jessuqhq/sekiolabs/access.php on line 4
+[16-Jun-2025 19:51:43 UTC] PHP Parse error:  syntax error, unexpected '$page_desc' (T_VARIABLE) in /home/jessuqhq/sekiolabs/access.php on line 4
+[19-Jun-2025 00:13:28 UTC] PHP Parse error:  syntax error, unexpected '$page_desc' (T_VARIABLE) in /home/jessuqhq/sekiolabs/access.php on line 4
+[22-Jun-2025 00:37:23 UTC] PHP Parse error:  syntax error, unexpected '$page_desc' (T_VARIABLE) in /home/jessuqhq/sekiolabs/access.php on line 4
+[24-Jun-2025 12:09:22 UTC] PHP Parse error:  syntax error, unexpected '$page_desc' (T_VARIABLE) in /home/jessuqhq/sekiolabs/access.php on line 4

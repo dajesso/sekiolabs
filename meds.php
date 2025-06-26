@@ -1,0 +1,36 @@
+<?php
+include("inc/config.php");
+$page_title = "sekiolabs - meds";
+$page_desc = "sekio's daily meds";
+include("inc/header.php");
+
+?>
+
+<h2>sekio's daily medications</h2><br />
+<table>
+<tr>
+ <th>Dose</th>
+ <th>Medication</th>
+ <th>Frequency</th>
+ <th>Reason taken</th>
+</tr>
+<tr><td>20mg</td><td><a href="https://en.wikipedia.org/wiki/Baclofen">baclofen</a></td><td>q4h</td><td>spasticity</td></tr>
+<tr><td>6mg</td><td><a href="https://en.wikipedia.org/wiki/Tizanidine">tizanidine</a></td><td>q4h</td><td>spasticity</td></tr>
+<tr><td>75mg</td><td><a href="https://en.wikipedia.org/wiki/Dantrolene">dantrolene</a></td><td>q8h</td><td>spasticity</td></tr>
+<tr><td>2mg<sup><i>[1]</i></sup></td><td><a href="https://en.wikipedia.org/wiki/Nabilone">nabilone</a></td><td>q8h<sup><i>[1]</i></sup></td><td>spasticity</td></tr>
+<tr><td>5mg</td><td><a href="https://en.wikipedia.org/wiki/Oxybutynin">oxybutynin</a></td><td>as needed</td><td>hyperhydrosis</td></tr>
+<tr><td>1.5mg</td><td><a href="https://en.wikipedia.org/wiki/Clonazepam">clonazepam</a></td><td>q12h</td><td>spasticity</td></tr>
+<tr><td>25mg</td><td><a href="https://en.wikipedia.org/wiki/Pregabalin">pregabalin</a></td><td>q12h</td><td>spasticity/nerve pain</td></tr>
+<!--<tr><td>500mg</td><td><a href="https://en.wikipedia.org/wiki/Levetiracetam">levetiracetam</a></td><td>q12h</td><td>"seizure disorder"<br /><small>(used as a nootropic)</small></td></tr> -->
+<tr><td>80mg</td><td><a href="https://en.wikipedia.org/wiki/Methadone">methadone</a></td><td>daily</td><td>spasticity / pain</td></tr>
+<tr><td>160-180mg</td><td><a href="https://en.wikipedia.org/wiki/Caffeine">caffeine</a></td><td>daily</td><td>stimulant</td></tr>
+<tr><td>440mg</td><td><a href="https://en.wikipedia.org/wiki/Naproxen">naproxen sodium</a></td><td>as needed</td><td>inflammatory pain</td></tr>
+<tr><td>50-200mg<sup><i>[2]</i></sup></td><td><a href="https://en.wikipedia.org/wiki/Tetrahydrocannabinol">THC</a>,<br/><small>sometimes 50% <a href="https://en.wikipedia.org/wiki/Cannabidiol">CBD</a>, or other cannabinoids</small></td><td>as needed (vape pen)</td><td>ennui, spasticity, appetite enhancement</td></tr>
+</table>
+<p>[1] nabilone is more effective when taken PRN at doses between 20-32mg prior to activity<br />
+[2] per day, total</p>
+
+
+<?php
+
+include("inc/footer.php"); ?>
